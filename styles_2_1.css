@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 10pt;
+    color: black;
+}
+.p1 {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 10pt;
+    color: black;
+}
+h2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 20pt;
+    color: black;
+}
+h3 {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 20pt;
+    color: black;
+}
+
+.p2 {
+   font-family:'Lato', sans-serif;
+    font-size: 10pt;
+    color: black;
+}
+
+h4 {
+    font-family:'Lato', sans-serif;
+    font-size: 20pt;
+    color: black;
+}
+
+iframe {
+    width: 100%;
+    height: 320px;
+}
